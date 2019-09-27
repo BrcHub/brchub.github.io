@@ -7,7 +7,8 @@ button {
     
     
   @font-face { 
-    font-family: 'Fira Sans Condensed', sans-serif; src: <link href="https://fonts.googleapis.com/css?family=Fira+Sans+Condensed&display=swap" rel="stylesheet">  }
+    font-family: 'Fira Sans Condensed', sans-serif; 
+    src: <link href="https://fonts.googleapis.com/css?family=Fira+Sans+Condensed&display=swap" rel="stylesheet">  }
     color: #FFFFFF;
   
 }
