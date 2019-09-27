@@ -1,9 +1,13 @@
 button {
   background: #0F3D64;
-  @font-face { 
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 12px;
+  padding-right: 12px;
     
+    
+  @font-face { 
     font-family: 'Fira Sans Condensed', sans-serif; src: <link href="https://fonts.googleapis.com/css?family=Fira+Sans+Condensed&display=swap" rel="stylesheet">  }
     color: #FFFFFF;
-
-
+  
 }
