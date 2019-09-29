@@ -1,13 +1,69 @@
-button {
-  background: 383838;
-  color: white;
-  border-radius: 0;
-  align: center;
-  padding-top: 12px;
-  padding-right: 16px;
-  padding-bottom: 12px;
-  padding-left: 16px;
-  font-family: Fira Sans Condensed;
-  font-size: 1rem;
-  font-spacing: 0.07rem;
+body {
+  margin-left: 1em;
+  font-size: 16px;
+  font-family: 'Fira Sans Condensed', sans-serif;
+  background-color: white;
+  font-family: 'Fira Sans Condensed', sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #F5F7F9;
+}
+
+.btn-primary {
+
+background-color: #0F3D64;
+border-bottom-color: rgb(0, 123, 255);
+border-bottom-left-radius: 0px;
+border-bottom-right-radius: 0px;
+border-bottom-style: solid;
+border-bottom-width: 1px;
+border-image-outset: 0;
+border-image-repeat: stretch;
+border-image-slice: 100%;
+border-image-source: none;
+border-image-width: 1;
+border-left-color: rgb(0, 123, 255);
+border-left-style: solid;
+border-left-width: 1px;
+border-right-color: rgb(0, 123, 255);
+border-right-style: solid;
+border-right-width: 1px;
+border-top-color: #383838;
+border-top-left-radius: 0px;
+border-top-right-radius: 0px;
+border-top-style: solid;
+border-top-width: 1px;
+box-sizing: border-box;
+color: ﻿;
+cursor: pointer;
+display: inline-block;
+font-family: 'Fira Sans Condensed', sans-serif;
+font-size: 18px;
+font-weight: 400;
+line-height: 24px;
+margin-bottom: 4px;
+margin-left: 0px;
+margin-right: 0px;
+margin-top: 10px;
+overflow: visible;
+overflow-x: visible;
+overflow-y: visible;
+padding-bottom: 12px;
+padding-left: 32px;
+padding-right: 32px;
+padding-top: 12px;
+text-align: center;
+text-transform: none;
+transition-delay: 0s, 0s, 0s, 0s;
+transition-duration: 0.15s, 0.15s, 0.15s, 0.15s;
+transition-property: color, background-color, border-color, box-shadow;
+transition-timing-function: ease-in-out, ease-in-out, ease-in-out, ease-in-out;
+user-select: none;
+vertical-align: middle;
+-moz-appearance: button;
+
+  }
+
+button:hover {
+background-color: #0B2B47 !important;
 }
